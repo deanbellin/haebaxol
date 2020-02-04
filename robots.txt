@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eingaefuu.zachhannum.engineer/sitemap.xml
